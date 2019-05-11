@@ -4,9 +4,10 @@
 
 # Images
 
-    Raspbian Stretch    https://downloads.raspberrypi.org/
-    Hypriot             https://blog.hypriot.com/downloads/
-    Hypriot 64 bits     https://github.com/DieterReuter/image-builder-rpi64/releases/
+    Raspbian Stretch        https://downloads.raspberrypi.org/
+    Debian Buster 64 Bits   https://people.debian.org/~stapelberg/raspberrypi3/2018-01-08/
+    Hypriot                 https://blog.hypriot.com/downloads/
+    Hypriot 64 bits         https://github.com/DieterReuter/image-builder-rpi64/releases/
 
 # ArmV6l
 
