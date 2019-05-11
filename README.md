@@ -2,6 +2,12 @@
 
     $ brew install qemu
 
+# Images
+
+    Raspbian Stretch    https://downloads.raspberrypi.org/
+    Hypriot             https://blog.hypriot.com/downloads/
+    Hypriot 64 bits     https://github.com/DieterReuter/image-builder-rpi64/releases/
+
 # ArmV6l
 
     $ qemu-system-arm \
