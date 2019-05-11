@@ -23,6 +23,8 @@
         -append 'root=/dev/sda2 panic=1' \
         -no-reboot
 
+# ArmV7l
+
 # Arm64
 
     $ 
