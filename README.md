@@ -23,8 +23,7 @@
         -append 'root=/dev/sda2 panic=1' \
         -no-reboot
 
-# ArmV7l
+# Sources
 
-# Arm64
-
-    $ 
+    https://github.com/dhruvvyas90/qemu-rpi-kernel
+    
