@@ -9,7 +9,7 @@
     Hypriot                 https://blog.hypriot.com/downloads/
     Hypriot 64 bits         https://github.com/DieterReuter/image-builder-rpi64/releases/
 
-# ArmV6l
+# Armv6
 
     $ qemu-system-arm \
         -M versatilepb \
@@ -22,6 +22,10 @@
         -kernel kernel-stretch \
         -append 'root=/dev/sda2 panic=1' \
         -no-reboot
+
+# Armv7
+
+# Armv8
 
 # Sources
 
